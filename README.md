@@ -8,12 +8,16 @@
 ### Objetivo do projeto:
 Fazer uma pergunta na url e retornar a resposta no navegador
 
- 
-* Abra a pasta testando-npm no terminal digite o comando 
+
+* Para testar esse projeto baixe esse repositório depois a abra a pasta testando-npm no terminal e  digite o comando 
 ```
 node app.js
 
 ```
 * Abra o localhost:3000 no navegador 
 e faça uma pergunta 
-exemplo http://localhost:3000/?pergunta=melhor-filme
+exemplo: 
+
+```
+http://localhost:3000/?pergunta=melhor-filme
+```
